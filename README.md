@@ -27,7 +27,7 @@ The effectiveness of branch prediction is a crucial factor in modern computer ar
 
 **5. Getting Started**<br>
 **a. Prerequisites**<br>
-Ensure you have a C compiler like GCC installed on your system to compile and run the simulation.
+Ensure you have a C compiler like GCC installed on your system to compile and run the simulation.<br>
 **b. Building the Project**<br>
 To compile the project, ensure you have a C++ compiler installed and configured (GCC recommended). Use the provided Makefile by running the following command in the terminal:<br><br>
 _**$ make**_ <br><br>
