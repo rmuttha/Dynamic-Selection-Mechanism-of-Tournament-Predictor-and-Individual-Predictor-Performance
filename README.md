@@ -2,7 +2,7 @@
 **1. Project Overview**<br>
 This repository contains the source code and documentation for the "Tournament Branch Predictor Study," a research project focused on improving processor performance by optimizing branch prediction algorithms. The project specifically investigates the dynamic selection capabilities of the Tournament Predictor compared to Bimodal, Gshare, and Piecewise predictors, utilizing simulations to analyze prediction accuracy and system efficiency.<br>
 
-**2. Background<br>
+**2. Background**<br>
 
   a. Bimodal Saturating Branch Predictor**<br>
 The Bimodal Saturating Branch Predictor is a fundamental prediction scheme utilized in computer architecture. It operates based on a simple but effective finite state machine approach using Bimodal saturating counters. These counters monitor and predict branch behavior over time, adjusting their predictions based on the outcomes of previous branches. The counters typically encode four states: strongly taken, weakly taken, weakly not taken, and strongly not taken. This method allows the predictor to adapt to recent branch behaviors while maintaining stability against noise in prediction patterns.<br>
