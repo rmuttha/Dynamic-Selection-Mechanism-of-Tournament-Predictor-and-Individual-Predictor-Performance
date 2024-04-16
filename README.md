@@ -29,12 +29,12 @@ The effectiveness of branch prediction is a crucial factor in modern computer ar
 ### a. Prerequisites
 Ensure you have a C compiler like GCC installed on your system to compile and run the simulation.<br>
 ### b. Building the Project
-To compile the project, ensure you have a C++ compiler installed and configured (GCC recommended). Use the provided Makefile by running the following command in the terminal:<br><br>
+To compile the project, ensure you have a C++ compiler installed and configured (GCC recommended). Use the provided Makefile by running the following command in the terminal:<br>
 `make` <br>
 This command will compile Branch_Predictors.cpp and create the predictor executable.<br>
 
 ### c. Running the Simulations
-To execute the branch predictors, use the compiled executable. You can run the program directly if you are on a Unix-like system:<br><br>
+To execute the branch predictors, use the compiled executable. You can run the program directly if you are on a Unix-like system:<br>
 `./predictor` <br>
 This will process the input data and generate output in Result.txt detailing the performance of each predictor.<br>
 
