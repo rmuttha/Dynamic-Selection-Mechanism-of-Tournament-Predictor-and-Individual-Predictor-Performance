@@ -1,0 +1,112 @@
+Correct: 2696869     Total: 3771697; ------------------ Accuracy: 71.5028
+Correct: 2689101     Total: 3771697; ------------------ Accuracy: 71.2968
+Correct: 2900489     Total: 3771697; ------------------ Accuracy: 76.9014
+Correct: 2957376     Total: 3771697; ------------------ Accuracy: 78.4097
+Correct: 3080139     Total: 3771697; ------------------ Accuracy: 81.6645
+Correct: 3127743     Total: 3771697; ------------------ Accuracy: 82.9267
+Correct: 3173003     Total: 3771697; ------------------ Accuracy: 84.1267
+Correct: 3183878     Total: 3771697; ------------------ Accuracy: 84.415
+
+Correct: 3307486     Total: 3771697; ------------------ Accuracy: 87.6923
+Correct: 3326945     Total: 3771697; ------------------ Accuracy: 88.2082
+Correct: 3320428     Total: 3771697; ------------------ Accuracy: 88.0354
+Correct: 3268457     Total: 3771697; ------------------ Accuracy: 86.6575
+Correct: 3261267     Total: 3771697; ------------------ Accuracy: 86.4668
+Correct: 3240303     Total: 3771697; ------------------ Accuracy: 85.911
+Correct: 3238764     Total: 3771697; ------------------ Accuracy: 85.8702
+Correct: 3210706     Total: 3771697; ------------------ Accuracy: 85.1263
+Correct: 3187632     Total: 3771697; ------------------ Accuracy: 84.5145
+
+Correct: 2696869     Total: 3771697; ------------------ Accuracy: 71.5028
+Correct: 2689101     Total: 3771697; ------------------ Accuracy: 71.2968
+Correct: 2900489     Total: 3771697; ------------------ Accuracy: 76.9014
+Correct: 2957376     Total: 3771697; ------------------ Accuracy: 78.4097
+Correct: 3080139     Total: 3771697; ------------------ Accuracy: 81.6645
+Correct: 3127743     Total: 3771697; ------------------ Accuracy: 82.9267
+Correct: 3173003     Total: 3771697; ------------------ Accuracy: 84.1267
+
+Correct: 3333866     Total: 3771697; ------------------ Accuracy: 87.6923
+Correct: 2696869     Total: 3771697; ------------------ Accuracy: 71.5028
+Correct: 2689101     Total: 3771697; ------------------ Accuracy: 71.2968
+Correct: 2900489     Total: 3771697; ------------------ Accuracy: 76.9014
+Correct: 2957376     Total: 3771697; ------------------ Accuracy: 78.4097
+Correct: 3080139     Total: 3771697; ------------------ Accuracy: 81.6645
+Correct: 3127743     Total: 3771697; ------------------ Accuracy: 82.9267
+Correct: 3173003     Total: 3771697; ------------------ Accuracy: 84.1267
+Correct: 3183878     Total: 3771697; ------------------ Accuracy: 84.415
+
+Correct: 3307486     Total: 3771697; ------------------ Accuracy: 87.6923
+Correct: 3326945     Total: 3771697; ------------------ Accuracy: 88.2082
+Correct: 3320428     Total: 3771697; ------------------ Accuracy: 88.0354
+Correct: 3268457     Total: 3771697; ------------------ Accuracy: 86.6575
+Correct: 3261267     Total: 3771697; ------------------ Accuracy: 86.4668
+Correct: 3240303     Total: 3771697; ------------------ Accuracy: 85.911
+Correct: 3238764     Total: 3771697; ------------------ Accuracy: 85.8702
+Correct: 3210706     Total: 3771697; ------------------ Accuracy: 85.1263
+Correct: 3187632     Total: 3771697; ------------------ Accuracy: 84.5145
+
+Correct: 2696869     Total: 3771697; ------------------ Accuracy: 71.5028
+Correct: 2689101     Total: 3771697; ------------------ Accuracy: 71.2968
+Correct: 2900489     Total: 3771697; ------------------ Accuracy: 76.9014
+Correct: 2957376     Total: 3771697; ------------------ Accuracy: 78.4097
+Correct: 3080139     Total: 3771697; ------------------ Accuracy: 81.6645
+Correct: 3127743     Total: 3771697; ------------------ Accuracy: 82.9267
+Correct: 3173003     Total: 3771697; ------------------ Accuracy: 84.1267
+
+Correct: 3333866     Total: 3771697; ------------------ Accuracy: 87.6923
+Correct: 2696869     Total: 3771697; ------------------ Accuracy: 71.5028
+Correct: 2689101     Total: 3771697; ------------------ Accuracy: 71.2968
+Correct: 2900489     Total: 3771697; ------------------ Accuracy: 76.9014
+Correct: 2957376     Total: 3771697; ------------------ Accuracy: 78.4097
+Correct: 3080139     Total: 3771697; ------------------ Accuracy: 81.6645
+Correct: 3127743     Total: 3771697; ------------------ Accuracy: 82.9267
+Correct: 3173003     Total: 3771697; ------------------ Accuracy: 84.1267
+Correct: 3183878     Total: 3771697; ------------------ Accuracy: 84.415
+
+Correct: 3307486     Total: 3771697; ------------------ Accuracy: 87.6923
+Correct: 3326945     Total: 3771697; ------------------ Accuracy: 88.2082
+Correct: 3320428     Total: 3771697; ------------------ Accuracy: 88.0354
+Correct: 3268457     Total: 3771697; ------------------ Accuracy: 86.6575
+Correct: 3261267     Total: 3771697; ------------------ Accuracy: 86.4668
+Correct: 3240303     Total: 3771697; ------------------ Accuracy: 85.911
+Correct: 3238764     Total: 3771697; ------------------ Accuracy: 85.8702
+Correct: 3210706     Total: 3771697; ------------------ Accuracy: 85.1263
+Correct: 3187632     Total: 3771697; ------------------ Accuracy: 84.5145
+
+Correct: 2696869     Total: 3771697; ------------------ Accuracy: 71.5028
+Correct: 2689101     Total: 3771697; ------------------ Accuracy: 71.2968
+Correct: 2900489     Total: 3771697; ------------------ Accuracy: 76.9014
+Correct: 2957376     Total: 3771697; ------------------ Accuracy: 78.4097
+Correct: 3080139     Total: 3771697; ------------------ Accuracy: 81.6645
+Correct: 3127743     Total: 3771697; ------------------ Accuracy: 82.9267
+Correct: 3173003     Total: 3771697; ------------------ Accuracy: 84.1267
+
+Correct: 3333866     Total: 3771697; ------------------ Accuracy: 87.6923
+Correct: 2696869     Total: 3771697; ------------------ Accuracy: 71.5028
+Correct: 2689101     Total: 3771697; ------------------ Accuracy: 71.2968
+Correct: 2900489     Total: 3771697; ------------------ Accuracy: 76.9014
+Correct: 2957376     Total: 3771697; ------------------ Accuracy: 78.4097
+Correct: 3080139     Total: 3771697; ------------------ Accuracy: 81.6645
+Correct: 3127743     Total: 3771697; ------------------ Accuracy: 82.9267
+Correct: 3173003     Total: 3771697; ------------------ Accuracy: 84.1267
+Correct: 3183878     Total: 3771697; ------------------ Accuracy: 84.415
+
+Correct: 3307486     Total: 3771697; ------------------ Accuracy: 87.6923
+Correct: 3326945     Total: 3771697; ------------------ Accuracy: 88.2082
+Correct: 3320428     Total: 3771697; ------------------ Accuracy: 88.0354
+Correct: 3268457     Total: 3771697; ------------------ Accuracy: 86.6575
+Correct: 3261267     Total: 3771697; ------------------ Accuracy: 86.4668
+Correct: 3240303     Total: 3771697; ------------------ Accuracy: 85.911
+Correct: 3238764     Total: 3771697; ------------------ Accuracy: 85.8702
+Correct: 3210706     Total: 3771697; ------------------ Accuracy: 85.1263
+Correct: 3187632     Total: 3771697; ------------------ Accuracy: 84.5145
+
+Correct: 2696869     Total: 3771697; ------------------ Accuracy: 71.5028
+Correct: 2689101     Total: 3771697; ------------------ Accuracy: 71.2968
+Correct: 2900489     Total: 3771697; ------------------ Accuracy: 76.9014
+Correct: 2957376     Total: 3771697; ------------------ Accuracy: 78.4097
+Correct: 3080139     Total: 3771697; ------------------ Accuracy: 81.6645
+Correct: 3127743     Total: 3771697; ------------------ Accuracy: 82.9267
+Correct: 3173003     Total: 3771697; ------------------ Accuracy: 84.1267
+
+Correct: 3333866     Total: 3771697; ------------------ Accuracy: 87.6923
